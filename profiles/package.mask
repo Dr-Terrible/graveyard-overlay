@@ -8,5 +8,11 @@
 
 # Toffanin Mauro <toffanin.mauro@gmail.com> (1 Gen 2016)
 # This software is no more maintained by upstream.
-# dev-util/flint++ is a better alternative, use it
+# Proceed at your own risk!
+# dev-util/flint++ is a better alternative.
 dev-util/flint
+
+# Toffanin Mauro <toffanin.mauro@gmail.com> (1 Gen 2016)
+# The Xynth windowing system is no more development
+# by upstream. Proceed at your own risk!
+x11-base/xynth
