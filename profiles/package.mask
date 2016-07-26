@@ -16,3 +16,14 @@ dev-util/flint
 # The Xynth windowing system is no more development
 # by upstream. Proceed at your own risk!
 x11-base/xynth
+
+# Toffanin Mauro <toffanin.mauro@gmail.com> (26 Jul 2016)
+# Deprecated and very old ebuilds; most probably they are
+# hyper-buggy too
+dev-python/django-fields
+dev-python/django-haystack
+dev-python/django-muddle-users
+dev-python/django-object-log
+dev-python/django-object-permissions
+dev-python/ganeti-webmgr-layout
+dev-python/muddle

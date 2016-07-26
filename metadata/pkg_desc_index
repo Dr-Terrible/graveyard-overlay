@@ -1,4 +1,5 @@
 app-editors/atom-bin 1.0.0: A hackable text editor for the 21st Century
+app-emulation/ganeti-webmgr 0.7.2 0.8: Ganeti Web Manager is an application for Ganeti clusters administration
 dev-python/django-fields 0.2.0: Fields pack for django framework
 dev-python/django-haystack 1.2.6: Modular search for django
 dev-python/django-muddle-users 0.5: A django app that provides management interface for Users and Groups
@@ -6,9 +7,6 @@ dev-python/django-object-log 0.7: This app provides the ability to log user acti
 dev-python/django-object-permissions 1.4.2 9999: This is an implementation of Django Object Permissions
 dev-python/ganeti-webmgr-layout 0.8: Muddled layout for Ganeti Web Manager
 dev-python/muddle 0.1 9999: Muddle is set of tools that aid building pluggable django apps
-dev-python/ordereddict 1.1: A drop-in substitute for Py2.7's new collections.OrderedDict that works in Python 2.4-2.6
-dev-python/plugnplay 0.4.2: A Generic plug-in system for python
-dev-python/smartypants 1.8.6: A port of SmartyPants PHP to Python
 dev-ruby/activemodel 3.2.22-r1: A toolkit for building modeling frameworks like Active Record and Active Resource
 dev-ruby/activesupport 3.2.22-r1: Utility Classes and Extension to the Standard Library
 dev-ruby/classifier-reborn 2.0.3-r1: Module to allow Bayesian and other types of classifications
@@ -41,4 +39,10 @@ dev-ruby/stringex 2.5.2-r1: Extensions for Ruby's String class
 dev-ruby/toml 0.1.2-r1: A sane configuration format
 dev-ruby/webmock 1.22.6-r1: Allows stubbing HTTP requests and setting expectations on HTTP requests
 dev-util/flint 2015.03.26: An open-source lint program for C++ developed by, and used at Facebook
+www-apps/jekyll 2.5.3-r1: A simple, blog aware, static site generator
+www-apps/jekyll-coffeescript 1.0.1-r1: A CoffeeScript Converter for Jekyll
+www-apps/jekyll-gist 1.3.5-r1: Liquid tag for displaying GitHub Gists in Jekyll sites
+www-apps/jekyll-paginate 1.1.0-r1: Default pagination generator for Jekyll
+www-apps/jekyll-sass-converter 1.4.0-r1: A basic Sass converter for Jekyll
+www-apps/jekyll-watch 1.3.0-r1: Rebuild your Jekyll site when a file changes with the --watch switch
 x11-base/xynth 0.8.20 0.10.82: Xynth is a portable embedded windowing system
