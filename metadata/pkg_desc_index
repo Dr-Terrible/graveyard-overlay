@@ -1,3 +1,17 @@
+dev-python/django-fields 0.2.0: Fields pack for django framework
+dev-python/django-haystack 1.2.6: Modular search for django
+dev-python/django-muddle-users 0.5: A django app that provides management interface for Users and Groups
+dev-python/django-object-log 0.7: This app provides the ability to log user actions on model instances
+dev-python/django-object-permissions 1.4.2 9999: This is an implementation of Django Object Permissions
+dev-python/ganeti-webmgr-layout 0.8: Muddled layout for Ganeti Web Manager
+dev-python/idiopidae 0.5.4: A book compiler for programmers where code and prose are separate
+dev-python/inflection 0.2.0: A port of Ruby on Rails inflector to Python
+dev-python/muddle 0.1 9999: Muddle is set of tools that aid building pluggable django apps
+dev-python/ordereddict 1.1: A drop-in substitute for Py2.7's new collections.OrderedDict that works in Python 2.4-2.6
+dev-python/plugnplay 0.4.2: A Generic plug-in system for python
+dev-python/python-modargs 1.7: A command-line argument parsing library that infers arguments from functions in a module
+dev-python/smartypants 1.8.6: A port of SmartyPants PHP to Python
+dev-python/zapps 0.5.1: A book compiler for programmers where code and prose are separate (a Yapps fork)
 dev-ruby/feedzirra 0.2.0_rc2: A feed fetching and parsing library for Ruby
 dev-ruby/god 0.13.1 0.13.3: A process monitoring framework in Ruby
 dev-ruby/gorillib 0.5.0: Gorillib is a lightweight subset of ruby convenience methods
