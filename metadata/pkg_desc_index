@@ -1,0 +1,7 @@
+dev-ruby/feedzirra 0.2.0_rc2: A feed fetching and parsing library for Ruby
+dev-ruby/god 0.13.1 0.13.3: A process monitoring framework in Ruby
+dev-ruby/gorillib 0.5.0: Gorillib is a lightweight subset of ruby convenience methods
+dev-ruby/loofah 1.2.1: A library for manipulating and transforming HTML/XML documents and fragments
+dev-ruby/sax-machine 0.2.0_rc1: Declarative SAX Parsing with Nokogiri
+dev-util/flint 2015.03.26: An open-source lint program for C++ developed by, and used at Facebook
+x11-base/xynth 0.8.20 0.10.82: Xynth is a portable embedded windowing system
