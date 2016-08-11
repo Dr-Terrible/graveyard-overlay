@@ -27,3 +27,4 @@ dev-python/django-object-log
 dev-python/django-object-permissions
 dev-python/ganeti-webmgr-layout
 dev-python/muddle
+<www-apps/jekyll-3.0.0
