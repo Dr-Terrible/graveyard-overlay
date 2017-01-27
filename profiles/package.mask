@@ -20,6 +20,7 @@ x11-base/xynth
 # Toffanin Mauro <toffanin.mauro@gmail.com> (26 Jul 2016)
 # Deprecated and very old ebuilds; most probably they are
 # hyper-buggy too
+app-emulation/ganeti-webmgr
 dev-python/django-fields
 dev-python/django-haystack
 dev-python/django-muddle-users

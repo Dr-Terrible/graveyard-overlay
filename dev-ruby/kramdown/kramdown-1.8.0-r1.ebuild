@@ -1,4 +1,4 @@
-# Copyright 1999-2016 Gentoo Foundation
+# Copyright 1999-2017 Gentoo Foundation
 # Distributed under the terms of the GNU General Public License v2
 # $Id$
 
@@ -26,7 +26,7 @@ DEPEND+=" test? ( ${LATEX_DEPS} app-text/htmltidy )"
 
 ruby_add_rdepend "dev-ruby/prawn:2
 	dev-ruby/prawn-table
-	>=dev-ruby/rouge-1.8
+	>=dev-ruby/rouge-1.8:0
 	>=dev-ruby/itextomml-1.5
 	>=dev-ruby/coderay-1.0.0
 	>=dev-ruby/ritex-1.0
