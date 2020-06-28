@@ -1,4 +1,4 @@
-# Copyright 1999-2017 Gentoo Foundation
+# Copyright 1999-2020 Graveyard Overlay Authors
 # Distributed under the terms of the GNU General Public License v2
 
 EAPI=5
@@ -32,7 +32,7 @@ COMMON_DEPEND="virtual/opengl
 	>=media-libs/libogg-1.3.2[static-libs]
 	>=media-libs/libpng-1.6.2
 	>=sys-libs/zlib-1.2.5[static-libs]
-	>=dev-libs/tinyxml2-2.1[static-libs]
+	>=dev-libs/tinyxml2-2.1
 	dev-libs/libpcre[cxx]
 	x11-libs/gtk+:2"
 RDEPEND="${COMMON_DEPEND}"
